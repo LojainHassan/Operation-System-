@@ -6,6 +6,7 @@
         public string? EmployeeName { get; set; }
         public string? City { get; set; }
         public string? Email { get; set; }
+        public decimal Salary { get; set; }
         public DateTime HireDate { get; set; }
         public string? Mobile { get; set; }
         public Gender Gender { get; set; }
